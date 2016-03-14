@@ -1,0 +1,24 @@
+p {
+    margin: 0;
+}
+
+.list {
+    position: relative;
+    width: 246px;
+    height: 20px;
+    margin: 2px;
+    padding: 1px 1px 1px 3px;
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+}
+
+.close {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: transparent;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
